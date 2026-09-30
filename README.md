@@ -1,8 +1,8 @@
-# 📈 Deribit Options Pricing, SSVI Calibration & Dynamic Hedging
+# Deribit Options Pricing, SSVI Calibration & Dynamic Hedging
 
 Plateforme quantitative complète développée en Python et Streamlit pour l'analyse, le pricing et la couverture dynamique de produits dérivés sur les cryptomonnaies (BTC/ETH) à partir des données en temps réel de l'exchange Deribit.
 
-## 🚀 Fonctionnalités Clés par Module
+## Fonctionnalités Clés par Module
 
 1. **Module 1 : Pipeline de Données**
    - Connexion à l'API publique de Deribit pour l'extraction des instruments et du carnet d'ordres.
@@ -27,7 +27,7 @@ Plateforme quantitative complète développée en Python et Streamlit pour l'ana
 
 Comprehensive quantitative platform developed in Python and Streamlit for the analysis, pricing, and dynamic hedging of cryptocurrency derivatives (BTC/ETH) using real-time data from the Deribit exchange.
 
-## 🚀 Key Features by Module
+## Key Features by Module
 
 1. **Module 1: Data Pipeline**
    - Connection to the Deribit public API for extracting instruments and order book data.
@@ -50,7 +50,7 @@ Comprehensive quantitative platform developed in Python and Streamlit for the an
    - 
 ---
 
-## 🛠️ Installation et Utilisation
+## Installation et Utilisation
 
 1. **Cloner le dépôt / Clone the reposit :**
    ```bash
